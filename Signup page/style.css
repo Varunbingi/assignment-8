@@ -34,4 +34,10 @@ label{
 button{
     background-color: black;
     color: white;
+    border-radius: 10px;
+}
+button:hover{
+    scale: 1.1;
+    cursor: pointer;
+    border-radius: 10px;
 }
